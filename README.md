@@ -1,16 +1,15 @@
-## Hi there 👋
+#안녕하세요 구건우 따까리 구핑퐁입니다
 
-<!--
-**Jinu-13/Jinu-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ㅁㅁ** : 30세
 
-Here are some ideas to get you started:
+--------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#저는바보입니다
+
+- 2222
+- 333
+- 444
+
+----------
+
+#ㅁㅁ
